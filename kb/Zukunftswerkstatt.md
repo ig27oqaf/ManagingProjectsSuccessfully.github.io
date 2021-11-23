@@ -48,7 +48,7 @@ Das Ziel der ersten Phase ist es, die Herausforderungen wahrzunehmen, sie zu ver
 ### II: Fantasie- & Utopiephase
 
 Im Mittelpunkt der zweiten Phase stehen die Verwirklichung von Innovationen und die Entstehung von Ideen. Die kritischen Punkte aus der ersten Phase werden nun als Ziel hervorgebracht. 
-In der kreativsten Phase sind  Experimentierfreude und Neugierde sehr wichtig. Dabei können Lösungen und Ideen sowohl schriftlich als auch verbal formuliert werden. Methoden dieser Phase sind beispielsweise [Brainstorming](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Brainstorming.md) oder Graphicstorming, [World Café](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/World_Cafe.md) oder Dynamic facilitation[^4]. 
+In der kreativsten Phase sind  Experimentierfreude und Neugierde wichtig. Dabei können Lösungen und Ideen sowohl schriftlich als auch verbal formuliert werden. Methoden dieser Phase sind beispielsweise [Brainstorming](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Brainstorming.md) oder Graphicstorming, [World Café](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/World_Cafe.md) oder Dynamic facilitation[^4]. 
 
 ### III. Realisierungs- | Strategiephase
 Die Ziele der letzten Phase beinhalten das Planen und Entscheiden. Man überprüft nun, ob die zuvor entwickelten Ideen umsetzbar sind. Schließlich beginnt die strategische Planung und die nächsten Schritte werden beschlossen. Methoden der letzten Phase sind beispielsweise Business Canvas, Aktionspläne oder das Ergebnis- und Strategiecafé [^4].
