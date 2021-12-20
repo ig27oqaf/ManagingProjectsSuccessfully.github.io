@@ -52,7 +52,7 @@ In der kreativsten Phase sind  Experimentierfreude und Neugierde wichtig. Dabei 
 ### III. Realisierungs- | Strategiephase
 Die Ziele der letzten Phase beinhalten das Planen und Entscheiden. Man überprüft nun, ob die zuvor entwickelten Ideen umsetzbar sind. Schließlich beginnt die strategische Planung und die nächsten Schritte werden beschlossen. Methoden der letzten Phase sind beispielsweise Business Canvas, Aktionspläne oder das Ergebnis- und Strategiecafé [^4].
 
-Je fortgeschrittener der Ablauf ist, desto höher ist die Wirklichkeitsebene und vor allem in der zweiten Phase ist die Fantasie am meisten gegeben (siehe Abbildung).
+Je fortgeschrittener der Ablauf ist, desto höher ist die Wirklichkeitsebene und vor allem in der zweiten Phase ist die Fantasie am meisten gefordert (siehe Abbildung).
 
 ![Beispielabbildung](/kb/Zukunftswerkstatt/Zukunftswerkstatt.webp)
 *Themen- und Anwendungsoffenheit*[^5]
@@ -77,15 +77,11 @@ Gehaltsunterschieden oder der Unterrepräsentanz von Frauen in Führungsposition
 
 
 # Weierführende Literatur
-Arbeitskreis "Zukunftswerkstätten" (Hrsg.): München - WerkStadt der Zukunft. Aktionen, Projekte und Erfahrungen mit Kindern, Jugendlichen und Erwachsenen. Dokumentation. München 1991.
-Bundesverband Neue Erziehung: Zukunftswerkstätten. Ermutigung zum Experimentieren mit einer basisdemokratischen Arbeitsweise. Bonn 1992.
-Jungk, Robert / Norbert R. Müllert: Zukunftswerkstätten. Mit der Phantasie gegen Routine und Resignation. München 1989.
-Jung, Robert (Hrsg.): Katalog der Hoffnung.
-51 Modelle für die Zukunft. Frankfurt/M. 1990.
-Kuhnt, Beate / Norbert R.Müllert: Moderationsfibel Zukunftswerkstätten: verstehen - anleiten - einsetzen. Münster 1996.
-Pädagogik, Heft 6/1992: Schwerpunkt: Mit Phantasie und Kreativität. Lernen in Zukunftswerkstätten.
-Schäfer, Frank / Dirk Strotmann: Zukunft der Industriegesellschaft. Eine Unterrichtsreihe im Fach Sozialwissenschaften in der 13. Jahrgangsstufe mit der Methode der Zukunftswerkstatt. In: Politisches Lernen, Heft 1/1991, S. 33-55.
-Weinbrenner, Peter / Walter Häcker: Zur Theorie und Praxis von Zukunftswerkstätten. In: Bundeszentrale für politische Bildung (Hrsg.): Methoden der politischen Bildung. Handlungsorientierung. Bonn 1991.
+
+* [Zukunftswerkstatt](https://de.m.wikipedia.org/wiki/Zukunftswerkstatt)
+* [JBZ-Zukunftswerkstatt](https://jungk-bibliothek.org/zukunftswerkstaetten/)
+* [Methodenbeschreibung](https://www.buergergesellschaft.de/mitentscheiden/methoden-verfahren/buergerbeteiligung-in-der-praxis-methoden-und-verfahren-von-a-z/zukunftswerkstatt/methodenbeschreibung)
+* [Google Zukunftswerkstatt](https://www.pylot.de/digitalwissen/google-zukunftswerkstatt)
 
 # Quellen
 
