@@ -4,7 +4,7 @@ tags: agil klassisch
 author: ig27oqaf
 anrechnung:  a
 ---
-[Projektmanagement](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) impliziert alle Aufgaben, die sich mit der Planung, Steuerung, Organisation und Kontrolle von Projekten befassen[^1]. Projekte, die komplex, zeitlich beschränkt und risikobehaftet sind, können nicht einfach durchgeführt werden, sondern benötigen Management.Dies ist immer zielgerichtet mit Aufgaben, wie beispielsweise die Festlegung der Ziele der Organisation, das Einwickeln einer Strategie zum Erreichen von Zielen oder die Organisation un Koordination der Produktionsfaktoren[^2]. 
+[Projektmanagement](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) impliziert alle Aufgaben, die sich mit der Planung, Steuerung, Organisation und Kontrolle von Projekten befassen[^1]. Projekte, die komplex, zeitlich beschränkt und risikobehaftet sind, können nicht einfach durchgeführt werden, sondern benötigen Management. Dies ist immer zielgerichtet mit Aufgaben, wie beispielsweise die Festlegung der Ziele der Organisation, das Einwickeln einer Strategie zum Erreichen von Zielen oder die Organisation und Koordination der Produktionsfaktoren[^2]. 
 Soft Skills sind deine persönlichen Fähigkeiten, Charakterzüge, Verhaltensweisen, Einstellungen und Eigenschaften, die über erlernte Fachkompetenzen hinausgehen. Weil sie nur schwer messbar sind, nennt man sie auch weiche Faktoren[^3].
 
 
@@ -13,8 +13,8 @@ Soft Skills definieren persönliche Werte (z. B. Fairness & Respekt), persönlic
 
 ## Softskills im Projektmanagement
 
-Wenn Soft Skills fehlen, scheitern Projekte, die vorher nur mit fachlicher Kompetenz angegangen worden sind. Neben den fachlichen Kompetenzen sind heutzutage ebenso soziale, persönliche und methodische Kompetenzen von hoher Wichtigkeit. Dabei stehen die soft Skills im Mittelpunkt (siehe Abbildung). Letztere werden auch als soft Skills bezeichnet. Unter anderem zählen zu den soft Skills Team- und Kritikfähigkeit, Selbstreflexion, vernetztes Denken und Präsentationstechniken. Diese Eigenschaften werden einerseits durch Kenntnisse aus der Vergangenheit und andererseits durch die einzelnen Persönlichkeiten beeinflusst. 
-Durch Herausforderungen, wie das Arbeiten auf Distanz, benutzt ein großer Teil der Mitarbeiter im Home-Office, zum direkten Austausch mit anderen Mitarbeiter, digitale Gebrauchsgegenstände. In dieser Zeit nimmt die Wichtigkeit der Soft Skills um einiges zu, da sie die virtuelle Teamarbeit nachhaltig prägen müssen, um den direkten Kontakt zu anderen [Projektmitarbeitern](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md) halten zu können und Motivation zu erzeugen[^5]. 
+Wenn Soft Skills fehlen, scheitern Projekte, die vorher nur mit fachlicher Kompetenz angegangen worden sind. Neben den fachlichen Kompetenzen sind heutzutage ebenso soziale, persönliche und methodische Kompetenzen von hoher Wichtigkeit. Dabei stehen die soft Skills im Mittelpunkt (siehe Abbildung). Unter anderem zählen zu den soft Skills Team- und Kritikfähigkeit, Selbstreflexion, vernetztes Denken und Präsentationstechniken. Diese Eigenschaften werden einerseits durch Kenntnisse aus der Vergangenheit und andererseits durch die einzelnen Persönlichkeiten beeinflusst. 
+In Zeiten von Home-Office nimmt die Wichtigkeit der Soft Skills um einiges zu, da sie die virtuelle Teamarbeit nachhaltig prägen müssen, um den direkten Kontakt zu anderen [Projektmitarbeitern](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md) halten zu können und Motivation zu erzeugen[^5]. 
 ![Beispielabbildung](/kb/Softskills_im_Projektmanagement/Softskills.jpg)
 
 *Bedeutung von soft Skills*[^6]
@@ -42,10 +42,6 @@ Projektorganisation verlangt ein einzigartiges Verständnis von Kooperation, unt
 Sowohl in agilen Projekten, als auch allgemein im Projektmanagement ist eine erhöhte Veränderungsbereitschaft erforderlich. Nur vereinzelt können Projektmitarbeiter in vorstrukturierte und eindeutige Abläufe eingearbeitet werden oder sich auf ihrem anfänglichen Wissensstand ausruhen. Projektmitarbeiter sollten eine gut ausgeprägte Lernfähigkeit mit in die Projekte bringen.
 Änderungen von Arbeitsweisen müssen akzeptiert und umgesetzt werden. Falls Projektmitarbeiter sich nicht an neue Voraussetzungen anpassen können, riskieren sie die bestmögliche Umsetzung des Projektziels[^7].
 
-## Innovationsfähigkeit
-
-Ein großer Teil von Projekten sollen die Welt mit Neuheiten verändern. Dabei reicht es nicht aus, bereits vorhandene Formen der Zusammenarbeit oder Produkte zu verknüpfen.
-Innovationsfähigkeit heißt für Projektteams den Horizont zu erweitern und das, was man für die Zukunft erreichen möchte, auf Realisierbarkeit und Belastungsfähigkeit zu überprüfen[^7].
 
 
 
@@ -76,6 +72,6 @@ Innovationsfähigkeit heißt für Projektteams den Horizont zu erweitern und das
 [^4]: [Soft Skills](https://www.inloox.de/projektmanagement-glossar/soft-skills/)
 [^5]: [Soft Skills im Projektmanagement](https://www.vdi-wissensforum.de/weiterbildung-persoenlichkeit/soft-skills-im-projektmanagement/)
 [^6]: [Bedeutung der soft Skills im Projektmanagement](https://docplayer.org/273268-Agenda-soft-skills-was-ist-das-genau-das-projektmanagement-und-seine-weiche-seite-teams-fuehren-ganz-einfach.html)
-[^7]: [Was ist Projektmanagement? Definition, Themen und Aufgaben](https://www.projektmagazin.de/projektmanagement-kompakt)
+[^7]: [Soft Skills im Projekt: Welche personalen Kompetenzen im Projektmanagement gefragt sind](https://www.kayenta.de/training-seminar/artikel/soft-skills-projektmanager-projektmanagement.html)
 
 
