@@ -19,7 +19,7 @@ Zuerst befasste sich die Zukunftswerkstatt mit verbalen und visuellen Formen der
 
 # Anwendungsgebiete der Zukunftswerkstatt
 
-Der offene Ansatz der Zukunftswerkstatt findet in vielen Bereichen, wie [Startups](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement_in_Startups.md), Wirtschaftsunternehmen, Schulklassen, sozialen Vereinen und Gemeinden, Anschluss.  
+Der offene Ansatz der Zukunftswerkstatt findet in vielen Bereichen, wie [Start-ups](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement_in_Startups.md), Wirtschaftsunternehmen, Schulklassen, sozialen Vereinen und Gemeinden, Anschluss.  
 
 * Organisations- und Unternehmensentwicklung
 * Leitbildentwicklung und Zukunftsprofil
@@ -27,11 +27,7 @@ Der offene Ansatz der Zukunftswerkstatt findet in vielen Bereichen, wie [Startup
 * als Tool für Startups, Unternehmensgründer/innen und Projektentwickler/innen
 *	[Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
 *	Partizipative Gemeinde- und Regionalentwicklung 
-*	Partizipative Raum-, Umwelt- und Stadtplanung
-*	Gestaltung des unmittelbaren Lebens- und Wohnraumes (Partizipative Wohnraumgestaltung)
-* Demokratiebildung im schulischen und außerschulischen Bereich
-
-Je nach Thema, Kontext oder Zielgruppe kann eine Zukunftswerkstatt zwischen zwei und acht Stunden bis hin zu mehreren Tagen angesetzt werden [^3].
+*	Partizipative Raum-, Umwelt- und Stadtplanung [^3].
 
 
 
@@ -41,13 +37,13 @@ Je nach Thema, Kontext oder Zielgruppe kann eine Zukunftswerkstatt zwischen zwei
 
 ### I. Kritikphase | Bestandsaufnahme
 
-Das Ziel der ersten Phase ist es, die Herausforderungen wahrzunehmen, sie zu verstehen und Vertrauen zu verschaffen. In dieser Phase können Einwände, Unmut und Veränderungsvorstellungen geäußert werden. Im geschlossenen Rahmen werden die Teilnehmer von den Meinungen aller Anwesenden unterrichtet. Auch positive Anregungen sollen hierbei geäußert werden. Man berichtet also über Angelegenheiten, die gut oder schlecht laufen und kann innerhalb der Gruppe Lösungen finden und in die nächste Phase übergehen. Methoden, die diese Phase beschrieben sind beispielsweise der Dialog, Brainstorming oder die Bulls Eye Technik[^4].
+Das Ziel der ersten Phase ist es, die Herausforderungen wahrzunehmen, sie zu verstehen und Vertrauen zu verschaffen. In dieser Phase können Einwände, Unmut und Veränderungsvorstellungen geäußert werden. Im geschlossenen Rahmen werden die Teilnehmer von den Meinungen aller Anwesenden unterrichtet. Auch positive Anregungen sollen hierbei geäußert werden. Man berichtet also über Angelegenheiten, die gut oder schlecht laufen und kann innerhalb der Gruppe Lösungen finden und in die nächste Phase übergehen. Methoden, die diese Phase beschreiben sind beispielsweise der Dialog, Brainstorming oder die Bulls Eye Technik[^4].
 
 
 ### II: Fantasie- & Utopiephase
 
 Im Mittelpunkt der zweiten Phase stehen die Verwirklichung von Innovationen und die Entstehung von Ideen. Die kritischen Punkte aus der ersten Phase werden nun als Ziel hervorgebracht. 
-In der kreativsten Phase sind  Experimentierfreude und Neugierde wichtig. Dabei können Lösungen und Ideen sowohl schriftlich als auch verbal formuliert werden. Methoden dieser Phase sind beispielsweise [Brainstorming](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Brainstorming.md) oder Graphicstorming, [World Café](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/World_Cafe.md) oder Dynamic facilitation[^4]. 
+In der kreativsten Phase sind Experimentierfreude und Neugierde wichtig. Dabei können Lösungen und Ideen sowohl schriftlich als auch verbal formuliert werden. Methoden dieser Phase sind beispielsweise [Brainstorming](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Brainstorming.md) oder Graphicstorming, [World Café](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/World_Cafe.md) oder Dynamic facilitation[^4]. 
 
 ### III. Realisierungs- | Strategiephase
 Die Ziele der letzten Phase beinhalten das Planen und Entscheiden. Man überprüft nun, ob die zuvor entwickelten Ideen umsetzbar sind. Schließlich beginnt die strategische Planung und die nächsten Schritte werden beschlossen. Methoden der letzten Phase sind beispielsweise Business Canvas, Aktionspläne oder das Ergebnis- und Strategiecafé [^4].
@@ -55,7 +51,7 @@ Die Ziele der letzten Phase beinhalten das Planen und Entscheiden. Man überprü
 Je fortgeschrittener der Ablauf ist, desto höher ist die Wirklichkeitsebene und vor allem in der zweiten Phase ist die Fantasie am meisten gefordert (siehe Abbildung).
 
 ![Beispielabbildung](/kb/Zukunftswerkstatt/Zukunftswerkstatt.webp)
-*Themen- und Anwendungsoffenheit*[^5]
+*Themen- und Anwendungsoffenheit*[^4]
 
 
 
